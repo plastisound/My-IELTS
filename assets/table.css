@@ -1,0 +1,119 @@
+.dt-buttons{float:right !important;}
+.dt-buttons{float:right !important;}
+.notifiy-process{margin:auto !important; width: 80%; padding: 10px; background-color: white;}
+#list-process, #list-process2{padding: 10px; display: none}
+#counting{display: none}
+#time{font-weight: bold; font-size: 23px;}
+.pending{color:red !important;}
+.confirm{color:green !important; font-weight: bold;}
+.alert{margin: auto;
+    width: 50%; }
+
+.form-control {
+    max-width: 520px;
+}
+.about-text{display: block; position: relative;} .about-text .title-1{width: 60%; display: inline-block;} .title-2{width: 30%; display: inline-block; text-align: center}
+.bs-docs-masthead .bs-docs-booticon {
+    margin: 0 auto 30px;
+}
+.bs-docs-booticon-outline {
+    background-color: transparent;
+    border: 1px solid #cdbfe3;
+}
+.bs-docs-booticon-lg {
+    width: 54px;
+    height: 54px;
+    font-size: 28px;
+    line-height: 54px;
+}
+.bs-docs-booticon {
+    display: inline-block;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    cursor: default;
+    background-color: #008688;
+    border-radius: 10%;
+}
+.bs-docs-booticon:hover{background-color: #337ab7 !important; }
+
+
+
+
+/*
+ * Glyphicons
+ *
+ * Special styles for displaying the icons and their classes in the docs.
+ */
+
+.bs-glyphicons-list {
+  list-style: none;
+  margin-bottom: 0px
+}
+.bs-glyphicons li {
+
+  padding: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border: 1px solid #337ab7;
+}
+
+.bs-glyphicons .glyphicon {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+.bs-glyphicons .glyphicon-class {
+  display: block;
+  text-align: center;
+  word-wrap: break-word; /* Help out IE10+ with class names */
+}
+.bs-glyphicons li:hover {
+  color: #fff;
+  background-color: #563d7c;
+}
+
+
+
+
+/*********** TABS STYLE **********/
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #337ab7;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #337ab7;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}

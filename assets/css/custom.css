@@ -1,0 +1,15 @@
+.float-right{float:right;}
+.iels-form-notice{display: block; border: solid 1px #CCC; color: green;padding: 0 20px;margin: auto;
+    text-align: center;
+    width: fit-content;
+    font-size: 14px;}
+.iels-form-error{display: block; border: solid 1px #CCC; color: red;padding: 0 20px;margin: auto;
+    text-align: center;
+    width: fit-content;
+    font-size: 14px;}
+ #top label, #top select, input#submit{font-weight: inherit; font-size: 16px}
+ .form-error{font-size: 12px;
+    padding: 0;
+    margin-top: -30px;
+    display: block;
+    color: #dd0000;}

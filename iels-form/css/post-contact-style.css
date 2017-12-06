@@ -1,0 +1,67 @@
+.form-group{margin-bottom: 0px !important;}
+input[type="text"], textarea {
+
+  background-color : #efefef !important; 
+
+}
+.innercheck{padding-top: 15px; position: absolute; left: 15px;width: 100%; font-size: 12px;}
+.sub-checkboxes{min-height: 0px !important}
+#sbmtbtn{padding:0;}#sbmtbtn input{font-size: 18px}
+#contactPost  input, #contactPost textarea { 
+    padding: 9px; 
+    border: dotted 2px #66FFFF; 
+    outline: 0; 
+    font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+    width: 200px; 
+    background: #FFFFFF; 
+    margin-top: 10px;
+
+    } 
+   
+#contactPost  textarea { 
+    width: 500px; 
+    height: 150px; 
+    line-height: 150%; 
+    } 
+   
+#contactPost  input:hover, #contactPost textarea:hover, 
+#contactPost input:focus, #contactPost textarea:focus { 
+    border-color: #3399FF; 
+    } 
+   
+#contactPost  label { 
+    margin-left: 10px; 
+    color: #999999; 
+   
+    } 
+   
+#contactPost  button { 
+    width: auto; 
+    padding: 15px; 
+    background: #617798; 
+    border: 0; 
+    font-size: 14px; 
+    color: #FFFFFF; 
+    float:right;
+    margin-top: 10px;
+ }
+ .postcontact-form-notice{ border:1px solid #E6DB55;border-radius:5px;background-color: #FFFBCC;margin: 0 0 16px 0px;padding: 12px;}
+ .PostContact-form-error{border:1px solid #CC0000;border-radius:5px;background-color: #FFEBE8;margin: 0 0 16px 0px;padding: 12px;}
+ .panel-title{text-transform: uppercase;}
+ .form-group div{min-height: 54px;}
+.form-group .underline{border-bottom: solid 1px;}
+.form-group .checkbox{min-height: initial;}
+.nav-tabs .hide{display:none}
+.acf-radio-list li, .acf-checkbox-list li{list-style:none}
+.floatcoinme{    font-size: 10px;
+    margin: 0 -10px;
+    margin-left: -30px;}
+span.glyphicon-menu-right {
+    margin-right: -10px;
+}
+.custombtn2{border-color: #1b9b9e !important;
+border-radius: 0;     font-size: 1.25em;}
+.panel-default>.panel-heading{background-color: #189295 !important; color:#FFFFFF !important;} 
+.panel-default>.panel-heading h3{color:#FFF !important}
+.panel-body{border: solid 1px #1b9b9e !important;}
+.custombtn2 .btn{background-color: transparent !important; color: #000000 !important;}
